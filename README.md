@@ -82,7 +82,7 @@ If you have feedback or suggestions, feel free to reach out!
 📩 **Connect with me:**  
 
 - GitHub: **[click here](https://github.com/Varsh25?tab=repositories)**
-- LinkedIn: **[click here](www.linkedin.com/in/srivarshini-ramakrishnan)**
+- LinkedIn: **[click here](https://www.linkedin.com/in/srivarshini-ramakrishnan/)**
 - Hugging Face: **[click here](https://huggingface.co/srivarshini25)**
 
 ## 📜 License  
